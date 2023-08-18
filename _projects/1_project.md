@@ -1,25 +1,15 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: capsule
+description: a personal stylist for pieces you already own
+img: assets/img/capsule-wardrobe-stock.jpeg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Capsule is a full end-to-end web application that uses React for the frontend end and Node Express for the backend. Users can upload images of shirts and bottoms to their wardrobe, which are stored to Amazon S3. After building a wardrobe, users can then rate different combinations of shirts and bottoms. Capsule then uses collaborative filtering to make personalized outfit recommendations to the user.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

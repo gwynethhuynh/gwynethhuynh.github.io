@@ -1,25 +1,14 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Simple Distributed File System
+description: store, fetch, and update files on a remote server from any client
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+# redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I implemented remote procedure calls using gRPC and Protobuf to store, list, and fetch files and metadata to and from a remote server. I then added synchronization and caching to maintain files between multiple clients and threads.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

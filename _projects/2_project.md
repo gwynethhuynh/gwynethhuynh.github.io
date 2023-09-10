@@ -4,7 +4,7 @@ title: splitit
 description: split bills amongst friends
 img: assets/img/bill-stock.jpeg
 importance: 2
-category: work
+category: projects
 giscus_comments: false
 ---
 

@@ -4,7 +4,7 @@ title: capsule
 description: a personal stylist for pieces you already own
 img: assets/img/capsule-wardrobe-stock.jpeg
 importance: 1
-category: work
+category: projects
 ---
 
 Capsule is a full end-to-end web application that uses React for the frontend end and Node Express for the backend. It is inspired by Cher's closet from the movie, *Clueless*. 

@@ -35,5 +35,7 @@ Capsule then uses collaborative filtering to make personalized outfit recommenda
     </div>
 </div>
 
+<a href="https://github.com/gwynethhuynh/capsule-project">Link to My Project Code</a>
+
 
 

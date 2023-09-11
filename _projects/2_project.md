@@ -16,3 +16,5 @@ Splitit is a web application using React and Django that allows groups to split 
     </div>
 </div>
 
+<a href="https://github.com/gwynethhuynh/splitit">Link to My Project Code</a>
+

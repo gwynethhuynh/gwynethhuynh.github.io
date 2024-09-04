@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 ### Professional Life
-Hi! My name is Gwyneth Huynh, and I am an aspiring software engineer looking to collaborate with other dedicated individuals to create something meaningful. I graduated Summa Cum Laude from UCLA and I am now pursuing a master's degree in computer science at Georgia Tech. I have a passion for backend development, with a focus on making processes faster and more efficient. I also have valuable experience in processing and visualizing genetic data from my time in Dr. Huiying Li's Lab at UCLA. Currently, we are engaged in some cool projects related to the vaginal microbiome and STIs. 
+Hi! My name is Gwyneth Huynh, and I am an aspiring software engineer with a passion for backend development and performance engineering. I graduated Summa Cum Laude from UCLA and am currently pursuing a master’s degree in computer science at Georgia Tech. Over the past year, I have gained valuable experience in managing UCLA's high-performance computing cluster, focusing specifically on optimizing the job scheduler to improve system efficiency and resource allocation. I also have experience processing and visualizing genetic data from my time in Dr. Huiying Li’s Lab at UCLA, where we worked on projects related to the vaginal microbiome and STIs. I am excited to collaborate with other dedicated individuals to create something meaningful.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
